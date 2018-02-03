@@ -1,3 +1,5 @@
 app-text/gsview 4.9: gsView PostScript and PDF viewer
+dev-libs/glib 1.2.10-r7: The GLib library of C routines
 media-libs/imlib 1.9.15-r5: Image loading and rendering library
+x11-libs/gtk+ 1.2.10-r13: The GIMP Toolkit
 x11-themes/gtk-engines 0.12: GTK+1 standard engines and themes
