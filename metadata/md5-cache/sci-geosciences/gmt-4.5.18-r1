@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install
+DEPEND=!sci-biology/probcons gdal? ( sci-libs/gdal ) gshhg? ( sci-geosciences/gshhg-gmt ) netcdf? ( >=sci-libs/netcdf-4.1 ) octave? ( sci-mathematics/octave ) >=app-portage/elt-patches-20170815 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=Powerful map generator
+EAPI=6
+HOMEPAGE=https://gmt.soest.hawaii.edu/
+IUSE=doc examples debug +gdal gmttria +gshhg htmldoc +metric mex +netcdf octave postscript tutorial
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2+ gmttria? ( Artistic )
+RDEPEND=!sci-biology/probcons gdal? ( sci-libs/gdal ) gshhg? ( sci-geosciences/gshhg-gmt ) netcdf? ( >=sci-libs/netcdf-4.1 ) octave? ( sci-mathematics/octave )
+REQUIRED_USE=mex? ( octave )
+SLOT=0
+SRC_URI=mirror://gmt/gmt-4.5.18-src.tar.bz2 gmttria? ( mirror://gmt/gmt-4.5.18-non-gpl-src.tar.bz2 )
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
+_md5_=0142cc40e521c5df6a519f74750179e7
