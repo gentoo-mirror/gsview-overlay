@@ -10,5 +10,5 @@ RDEPEND=!sci-biology/probcons gdal? ( sci-libs/gdal ) gshhg? ( sci-geosciences/g
 REQUIRED_USE=mex? ( octave )
 SLOT=0
 SRC_URI=mirror://gmt/gmt-4.5.18-src.tar.bz2 gmttria? ( mirror://gmt/gmt-4.5.18-non-gpl-src.tar.bz2 )
-_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
 _md5_=4ef8205edf5606d0b1836960a9bfec7b
