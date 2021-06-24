@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile install prepare
+DEPEND=app-arch/unzip x11-libs/gtk+:1
+DESCRIPTION=gsView PostScript and PDF viewer
+EAPI=7
+HOMEPAGE=http://www.cs.wisc.edu/~ghost/gsview/
+INHERIT=toolchain-funcs desktop
+IUSE=doc epstool pstotext
+KEYWORDS=amd64 hppa ppc x86 ~amd64-linux ~x86-linux arm arm64
+LICENSE=Aladdin
+RDEPEND=x11-libs/gtk+:1 epstool? ( app-text/epstool ) pstotext? ( app-text/pstotext ) app-text/ghostscript-gpl
+SLOT=0
+SRC_URI=ftp://mirror.cs.wisc.edu/pub/mirrors/ghost/ghostgum/gsview-4.9.tar.gz ftp://ftp.dvo.ru/pub/Gentoo/distfiles/gsview-4.9.tar.gz
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	desktop	c0d27bf73aa08ca05b663dbd31fbef28
+_md5_=8da44615b1805841cdd5d1bfa8013a19
