@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install postinst
+DESCRIPTION=Convert JPEG images to Postscript using a wrapper
+EAPI=8
+INHERIT=toolchain-funcs readme.gentoo-r1
+IUSE=metric
+KEYWORDS=amd64 ppc ~ppc64 sparc x86 ~amd64-linux ~x86-linux ~ppc-macos
+LICENSE=jpeg2ps
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/uleysky/jpeg2ps/archive/refs/tags/v1.9.tar.gz
+_eclasses_=toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4fbbbc98f236f1b43acd99476bc3cd85	readme.gentoo-r1	b776ad4b42f564c406a95c41ccb42c55
+_md5_=321449f4f0cc3d9e8126ee619d5ea670

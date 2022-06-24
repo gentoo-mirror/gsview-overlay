@@ -4,6 +4,7 @@
 
 app-text/gsview:epstool - Install app-text/epstool for creating and extracting preview images from EPS files
 app-text/gsview:pstotext - Install app-text/pstotext for extractig text from postscript files
+media-gfx/jpeg2ps:metric - Default to A4 paper size
 sci-geosciences/gmt:dcw - Install countries boundaries database
 sci-geosciences/gmt:gdal - Enable sci-libs/gdal library support
 sci-geosciences/gmt:gmtfull - Full resolution bathymetry database
