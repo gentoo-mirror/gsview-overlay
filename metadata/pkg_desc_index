@@ -1,7 +1,7 @@
 app-text/gsview 4.9: gsView PostScript and PDF viewer
 dev-libs/glib 1.2.10-r7: The GLib library of C routines
 media-gfx/jpeg2ps 1.9-r3: Convert JPEG images to Postscript using a wrapper
-media-libs/imlib 1.9.15-r5: Image loading and rendering library
+media-libs/imlib 1.9.15-r5 1.9.15-r7: Image loading and rendering library
 sci-geosciences/dcw-gmt 1.1.4: The Digital Chart of the World for GMT 5 or later
 sci-geosciences/gmt 4.5.18-r1 5.4.4 9999: Powerful map generator
 sci-geosciences/gshhg-gmt 2.3.7: A Global Self-consistent, Hierarchical, High-resolution Geography Database
