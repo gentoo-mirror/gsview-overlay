@@ -8,5 +8,5 @@ LICENSE=jpeg2ps
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/uleysky/jpeg2ps/archive/refs/tags/v1.9.tar.gz
-_eclasses_=toolchain-funcs	e7e7331166166e7a516d19e264b098c2	multilib	c19072c3cd7ac5cb21de013f7e9832e0	readme.gentoo-r1	b8c7a61664027641d79dcfc04bd366f4
+_eclasses_=toolchain-funcs	0c713337f7872f1a002cecaaea9bef73	multilib	c19072c3cd7ac5cb21de013f7e9832e0	readme.gentoo-r1	b8c7a61664027641d79dcfc04bd366f4
 _md5_=321449f4f0cc3d9e8126ee619d5ea670
