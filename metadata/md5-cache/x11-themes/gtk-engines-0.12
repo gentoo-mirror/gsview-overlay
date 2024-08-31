@@ -10,4 +10,4 @@ LICENSE=GPL-2
 SLOT=1
 SRC_URI=mirror://gnome/sources/gtk-engines/0.12/gtk-engines-0.12.tar.gz
 _eclasses_=gnuconfig	a397adda6984a4c423e28ac274c1ba98	toolchain-funcs	333970c740aa7b1a92e4fcdc52f612bd	multilib	c19072c3cd7ac5cb21de013f7e9832e0	libtool	5f49a16f67f81bdf873e3d1f10b10001	autotools	d12ccbad07b44642a75ac97a3334d8e0
-_md5_=f26a99c171879c86fc776ef0de9fe3c8
+_md5_=2767b45e1ce9f7f2543f054233b6204f
