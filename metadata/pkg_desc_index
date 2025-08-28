@@ -3,7 +3,7 @@ dev-libs/glib 1.2.10-r7: The GLib library of C routines
 media-gfx/jpeg2ps 1.9-r3: Convert JPEG images to Postscript using a wrapper
 media-libs/imlib 1.9.15-r9: Image loading and rendering library
 sci-geosciences/dcw-gmt 1.1.4: The Digital Chart of the World for GMT 5 or later
-sci-geosciences/gmt 4.5.18-r1 5.4.4 9999: Powerful map generator
+sci-geosciences/gmt 9999: Powerful map generator
 sci-geosciences/gshhg-gmt 2.3.7: A Global Self-consistent, Hierarchical, High-resolution Geography Database
 sci-geosciences/gsw-c 3.05.0.4 9999: TEOS-10 GSW Oceanographic Toolbox in C
 x11-libs/gtk+ 1.2.10-r13: The GIMP Toolkit
